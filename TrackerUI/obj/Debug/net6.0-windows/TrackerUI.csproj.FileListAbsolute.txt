@@ -1,0 +1,15 @@
+D:\.vscode\C#\FirstCsApp\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.exe
+D:\.vscode\C#\FirstCsApp\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.deps.json
+D:\.vscode\C#\FirstCsApp\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.runtimeconfig.json
+D:\.vscode\C#\FirstCsApp\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.dll
+D:\.vscode\C#\FirstCsApp\TrackerUI\bin\Debug\net6.0-windows\TrackerUI.pdb
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.csproj.AssemblyReference.cache
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.AssemblyInfoInputs.cache
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.AssemblyInfo.cs
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.csproj.CoreCompileInputs.cache
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.dll
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\refint\TrackerUI.dll
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.pdb
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\TrackerUI.genruntimeconfig.cache
+D:\.vscode\C#\FirstCsApp\TrackerUI\obj\Debug\net6.0-windows\ref\TrackerUI.dll
